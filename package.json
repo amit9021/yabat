@@ -1,7 +1,7 @@
 {
-  "name": "landingpage-react-template",
+  "name": "yabat-air-conditioning",
   "private": true,
-  "homepage": ".",
+  "homepage": "https://amit9021.github.io/yabat",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
@@ -19,7 +19,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build && node script.js",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -35,5 +37,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
