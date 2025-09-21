@@ -68,7 +68,7 @@ export const Navigation = (props) => {
           <a className="navbar-brand page-scroll" href="#page-top">
             י.ב.ט מיזוג אוויר
           </a>{" "}
-          <img src="/img/logo.jpg" alt="logo" id="nav-logo" className="logo" />
+          <img src="./img/logo.jpg" alt="logo" id="nav-logo" className="logo" />
         </div>
       </div>
     </nav>
