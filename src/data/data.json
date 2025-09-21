@@ -1,136 +1,193 @@
 {
-    "Header": {
-
-        "title": "We are a Landing Page",
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
-
-    },
-    "About": {
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "Why": [
-            "Lorem ipsum dolor",
-            "Tempor incididunt",
-            "Lorem ipsum dolor",
-            "Incididunt ut labore"
-        ],
-        "Why2": [
-            "Aliquip ex ea commodo",
-            "Lorem ipsum dolor",
-            "Exercitation ullamco",
-            "Lorem ipsum dolor"
-        ]
-    },
-    "Services": [{
-            "icon": "fa fa-wordpress",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-cart-arrow-down",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-cloud-download",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-language",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-plane",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-pie-chart",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        }
-
-
+  "Header": {
+    "title": "י.ב.ט מיזוג אוויר",
+    "paragraph": "חברת י.ב.ט מיזוג אוויר הוקמה בשנת 1991 ומאז עובדת בעיקר בתחום מיזוג האוויר הביתי. אנו מבצעים התקנות מזגנים עיליים, מיני מרכזי, תמיכה טכנית והנמכות גבס."
+  },
+  "About": {
+    "paragraph": "בשנים האחרונות השוק כולו עובר בהדרגה למערכות ה-VRF. לכן החלטנו ללכת עם הקדמה והטכנולוגיה ולהתמקד במערכת VRF. בנוסף לכך, אנו מספקים שירות גם ליחידות מיזוג גדולות כגון פאקג'ים וצ'ילרים, כחלק ממערך השירות המקיף שלנו.",
+    "Why": [
+      "ניסיון רב בהתקנה והפעלה של מערכות VRF",
+      "מוסמכי הפעלה של חברת תדיראן, GREE, TOSHIBA",
+      "מוסמכי התקנה של החברות המובילות: SAMSUNG, DAIKIN, TOSHIBA, LG",
+      "צוות מתקינים עם עשרות שנות ניסיון"
     ],
-    "Testimonials": [{
-            "img": "img/testimonials/01.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
-        },
-        {
-            "img": "img/testimonials/02.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
-        },
-        {
-            "img": "img/testimonials/03.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
-        },
-        {
-            "img": "img/testimonials/04.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
-        },
-        {
-            "img": "img/testimonials/05.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
-        },
-        {
-            "img": "img/testimonials/06.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
-        }
-    ],
-    "Team": [{
-            "img": "img/team/01.jpg",
-            "name": "John Doe",
-            "job": "Director"
-        },
-        {
-            "img": "img/team/02.jpg",
-            "name": "Mike Doe",
-            "job": "Senior Designer"
-        }, {
-            "img": "img/team/03.jpg",
-            "name": "Jane Doe",
-            "job": "Senior Designer"
-        },
-        {
-            "img": "img/team/04.jpg",
-            "name": "Karen Doe",
-            "job": "Project Manager"
-        }
-    ],
-    "Contact": {
-        "address": "4321 California St, San Francisco, CA 12345 ",
-        "phone": "+1 123 456 1234",
-        "email": "info@company.com",
-        "facebook": "fb.com",
-        "twitter": "twitter.com",
-        "youtube": "youtube.com"
-    },
-    "Features": [{
-            "icon": "fa fa-comments-o",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-        },
-        {
-            "icon": "fa fa-bullhorn",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-        },
-        {
-            "icon": "fa fa-group",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-        },
-        {
-            "icon": "fa fa-magic",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-        }
+    "Why2": [
+      "חשמלאי מוסמך והנדסאי מיזוג אוויר",
+      "התקנות מכלל הסוגים ובטווח מחירים נוח",
+      "תמיכה טכנית והנמכות גבס",
+      "ייעוץ מקצועי עם הדמיה תלת ממדית"
     ]
+  },
+  "Services": [
+    {
+      "icon": "fa fa-home",
+      "name": "התקנת מזגנים עיליים",
+      "text": "התקנה מקצועית של מזגנים עיליים עם תמיכה טכנית מלאה והנמכות גבס מותאמות."
+    },
+    {
+      "icon": "fa fa-cog",
+      "name": "מערכות VRF",
+      "text": "התקנה ותחזוקה של מערכות VRF מתקדמות עם ניסיון רב ומומחיות טכנית."
+    },
+    {
+      "icon": "fa fa-building",
+      "name": "מיני מרכזי",
+      "text": "התקנה ותחזוקה של מערכות מיני מרכזי עם דמפרים וטכנולוגיות מתקדמות."
+    },
+    {
+      "icon": "fa fa-wrench",
+      "name": "תמיכה טכנית",
+      "text": "שירותי תמיכה טכנית מקצועית לכל סוגי מערכות המיזוג עם צוות מוסמך."
+    },
+    {
+      "icon": "fa fa-paint-brush",
+      "name": "הנמכות גבס",
+      "text": "ביצוע הנמכות גבס מותאמות למערכות מיזוג עם עיצוב מושלם ואסתטי."
+    },
+    {
+      "icon": "fa fa-calculator",
+      "name": "ייעוץ מקצועי",
+      "text": "ייעוץ מקצועי עם הדמיה תלת ממדית של תכנית העבודה והתקנה."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"התקנה מקצועית של מערכת VRF בבית שלנו. יעקב וצוותו עבדו בצורה נקייה ומסודרת. התוצאה מעולה!\"",
+      "name": "דוד כהן"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"שירות מעולה! התקנו לנו מיני מרכזי עם דמפרים. העבודה בוצעה בזמן והתוצאה מעבר לציפיות.\"",
+      "name": "שרה לוי"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"ייעוץ מקצועי עם הדמיה תלת ממדית עזר לנו להבין בדיוק איך תיראה ההתקנה. מומלץ בחום!\"",
+      "name": "מיכאל אברהם"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"הנמכות הגבס שביצעו לנו מושלמות! מערכת המיזוג נראית כמו חלק מהעיצוב המקורי של הבית.\"",
+      "name": "רחל גולדברג"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"צוות מקצועי עם ניסיון רב. התקנו לנו מערכת VRF מורכבת בוילה. העבודה בוצעה בצורה מושלמת.\"",
+      "name": "אור שוורץ"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"תמיכה טכנית מעולה! כל בעיה נפתרה במהירות ובמקצועיות. חברה אמינה ומקצועית.\"",
+      "name": "רזיאל בן ישי"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "אמציה המלך 6 דירה 8",
+    "phone": "0522435115",
+    "email": "yakovb50@gmail.com",
+    "facebook": "yabat.online",
+    "twitter": "yabat_online",
+    "youtube": "yabat.online"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-shield",
+      "title": "ניסיון רב שנים",
+      "text": "חברה ותיקה מאז 1991 עם ניסיון רב בהתקנה ותחזוקה של מערכות מיזוג אוויר מכל הסוגים."
+    },
+    {
+      "icon": "fa fa-cog",
+      "title": "טכנולוגיה מתקדמת",
+      "text": "התמחות במערכות VRF החדישות ביותר עם מומחיות בחברות המובילות: SAMSUNG, DAIKIN, TOSHIBA, LG."
+    },
+    {
+      "icon": "fa fa-paint-brush",
+      "title": "הנמכות גבס מותאמות",
+      "text": "ביצוע הנמכות גבס מקצועיות המותאמות למערכות המיזוג עם עיצוב מושלם ואסתטי."
+    },
+    {
+      "icon": "fa fa-calculator",
+      "title": "ייעוץ עם הדמיה",
+      "text": "ייעוץ מקצועי עם הדמיה תלת ממדית של תכנית העבודה והתקנה בדירת הלקוח."
+    }
+  ],
+  "Gallery": [
+    {
+      "thumb": "img/portfolio/tlvlib01.avif",
+      "large": "img/portfolio/tlvlib01.avif",
+      "title": "תל אביב",
+      "description": "ספרייה עם מזגן וורטיקאלי אנכי"
+    },
+    {
+      "thumb": "img/portfolio/tlvlib02.avif",
+      "large": "img/portfolio/tlvlib02.avif",
+      "title": "תל אביב",
+      "description": "ספרייה עם מזגן וורטיקאלי אנכי"
+    },
+    {
+      "thumb": "img/portfolio/nistar.avif",
+      "large": "img/portfolio/nistar.avif",
+      "title": "מזגן נסתר בזריקה ישירה",
+      "description": "התקנה אסתטית של מזגן נסתר עם תריס דקור פינתי"
+    },
+    {
+      "thumb": "img/portfolio/bigsys02.avif",
+      "large": "img/portfolio/bigsys02.avif",
+      "title": "מערכת גדולה בוילה",
+      "description": "התקנה של מערכת גדולה בוילה עם טכנולוגיה מתקדמת"
+    },
+    {
+      "thumb": "img/portfolio/bigsys03.avif",
+      "large": "img/portfolio/bigsys03.avif",
+      "title": "מערכת גדולה בוילה",
+      "description": "התקנה של מערכת גדולה בוילה עם טכנולוגיה מתקדמת"
+    },
+    {
+      "thumb": "img/portfolio/bigsys.avif",
+      "large": "img/portfolio/bigsys.avif",
+      "title": "מערכות גדולות בוילות",
+      "description": "התקנה של מערכות מיזוג גדולות בוילות עם טכנולוגיה מתקדמת"
+    },
+    {
+      "thumb": "img/portfolio/krins01.avif",
+      "large": "img/portfolio/krins01.avif",
+      "title": "קרניזים עם תריסים פינתיים",
+      "description": "עיצוב מושלם של קרניזי גבס עם תריסים פינתיים אסתטיים"
+    },
+    {
+      "thumb": "img/portfolio/krins02.avif",
+      "large": "img/portfolio/krins02.avif",
+      "title": "קרניזים עם תריסים פינתיים",
+      "description": "עיצוב מושלם של קרניזי גבס עם תריסים פינתיים אסתטיים"
+    },
+    {
+      "thumb": "img/portfolio/krins03.avif",
+      "large": "img/portfolio/krins03.avif",
+      "title": "קרניזים עם תריסים פינתיים",
+      "description": "עיצוב מושלם של קרניזי גבס עם תריסים פינתיים אסתטיים"
+    }
+  ]
 }
